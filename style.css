@@ -1,0 +1,27 @@
+body{
+    background-image: url(giphyu.gif);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.clock{
+text-align: center;
+margin: 0 auto;
+}
+img{
+display: inline-block;
+vertical-align: middle;
+}
+article
+
+h1{
+    color: snow;
+    font-family: 'Lemonada', cursive;
+    font-size: 60px;
+}
+h3{
+    color: snow;
+    font-family: 'Lemonada', cursive;
+   font-size: 40px;
+}
